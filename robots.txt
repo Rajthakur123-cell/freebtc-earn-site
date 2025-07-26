@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rajthakur123-cell.github.io/freebtc-earn-site/sitemap.xml
